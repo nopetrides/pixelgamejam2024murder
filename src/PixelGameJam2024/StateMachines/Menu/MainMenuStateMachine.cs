@@ -38,7 +38,7 @@ namespace PixelGameJam2024.StateMachines
 
         protected override void OnStart()
         {
-            //Entity.SetCustomDraw(DrawMainMenu);
+            Entity.SetCustomDraw(DrawMainMenu);
 
             _menuInfo.Select(Game.Data.CanLoadSaveData(0) ? 0 : 1);
         }

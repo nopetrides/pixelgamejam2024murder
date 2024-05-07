@@ -20,7 +20,7 @@
       "guid": "e5c06d11-f5cb-4f1b-938f-bccafdd97d29",
       "name": "Menu",
       "components": {
-        "Bang.StateMachines.StateMachineComponent\u00601[[PixelGameJam2024.StateMachines.MainMenuStateMachine, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Bang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+        "Bang.StateMachines.StateMachineComponent\u00601[[PixelGameJam2024.StateMachines.MainMenuStateMachine, PixelGameJam2024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Bang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "Bang.StateMachines.StateMachineComponent\u003CPixelGameJam2024.StateMachines.MainMenuStateMachine\u003E",
           "routine": {
             "newGameWorld": "3bd26720-c3b1-44c1-b7c3-192d5656cc37",
